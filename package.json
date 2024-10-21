@@ -1,13 +1,13 @@
 {
-  "name": "rxdb",
-  "description": "A local-first realtime NoSQL Database for JavaScript applications - https://rxdb.info/",
+  "name": "test-rxdb",
+  "description": "A local realtime NoSQL Database for JavaScript applications - ",
   "version": "15.36.1",
   "author": "pubkey",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pubkey/rxdb"
+    "url": "https://github.com/Mihu89/test-rxdb"
   },
-  "homepage": "https://rxdb.info/",
+  "homepage": "",
   "keywords": [
     "db",
     "database",
