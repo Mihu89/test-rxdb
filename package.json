@@ -2,7 +2,7 @@
   "name": "test-rxdb",
   "description": "A local realtime NoSQL Database for JavaScript applications - ",
   "version": "15.36.1",
-  "author": "pubkey",
+  "author": "Mihayl Systems",
   "repository": {
     "type": "git",
     "url": "https://github.com/Mihu89/test-rxdb"
